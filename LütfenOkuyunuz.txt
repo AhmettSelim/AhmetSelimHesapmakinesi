@@ -1,1 +1,1 @@
-Hocam hesap makinesinin buildini githuba atamadım bir sorun oluştu lms üzerinden attım bilginiz olsun
+Javadan ilk hesap makinesi deneyimim
